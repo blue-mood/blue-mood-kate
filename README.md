@@ -2,7 +2,7 @@
 
 This is a port of [emacs's Blue Mood theme](https://emacsthemes.com/themes/blue-mood-theme.html) for Kate and Kwrite.
 
-![Screenshot](screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/blue-mood/blue-mood-everything/master/screenshots/kate-screenshot.png)
 
 Keep in mind that this port doesn't correspond 100% to the original emacs theme, due to the differences between Kpart's theming system and emacs's theming system.
 
